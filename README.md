@@ -1,6 +1,6 @@
+![codewars pic](https://www.codewars.com/users/ivanobivan/badges/large)
 # Who am I?
 Ivan Kolesov - frontend developer
-![codewars pic](https://www.codewars.com/users/ivanobivan/badges/large)
 # My profiles
 - [Habr](https://habr.com/ru/users/obivan_jedi/)
 # My articles
