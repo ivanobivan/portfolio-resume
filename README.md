@@ -3,7 +3,7 @@
 Ivan Kolesov - frontend developer
 # My profiles
 - [Habr](https://habr.com/ru/users/obivan_jedi/)
-- [LeanJS](https://learn.javascript.ru/profile/jesse-ventura)
+- [learn.javascript](https://learn.javascript.ru/profile/jesse-ventura)
 # My articles
 - [Angular no CLI: Tutorial](https://habr.com/ru/post/656529/)
 # My sertificates
