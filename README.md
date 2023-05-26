@@ -14,6 +14,9 @@
 - [Python: Basics and Applications](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/stepik-certificate-512-15cf4ba.pdf)
 - [Sovkombank-hackathon (participant certificate)](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/sovlombank-hk-certificate.pdf)
 
+# Дипломы (diplomas)
+- [Habr (article diplome)]((https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf))
+
 # Хакатоны (Hackathons)
 
 | Наименование (name) | Итоговое место / Количество команд (Название команды) <br/>  (Final place / Number of teams (Team name) |  Роль (Role) | Решение (Solution) | Электронный сертификат (Electronic certificate) |
