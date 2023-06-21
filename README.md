@@ -15,10 +15,10 @@
 - [Sovkombank-hackathon (participant certificate)](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/sovlombank-hk-certificate.pdf)
 
 # Дипломы (diplomas)
-- [Habr (article diplome)](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf)
+- [Habr (Angular no CLI article diplome)](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf)
 
 # Хакатоны (Hackathons)
 
 | Наименование (name) | Итоговое место / Количество команд (Название команды) <br/>  (Final place / Number of teams (Team name) |  Роль (Role) | Решение (Solution) | Электронный сертификат (Electronic certificate) |
 |----------|:-------------:|:------------:|:------------:|------:|
-| [Sovcombank Team Challenge 2022](https://scbteamchallenge.sk.ru/)  | [19 / 61 (BIV-GROUP)](https://codenrock.com/contests/scbteamchallenge-codenrock#/rating/2389) |  Frontend-developer  | | [Cсылка (link)](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/sovlombank-hk-certificate.pdf) |
+| [Sovcombank Team Challenge 2022](https://scbteamchallenge.sk.ru/)  | [19 / 61 (BIV-GROUP)](https://codenrock.com/contests/scbteamchallenge-codenrock#/rating/2389) |  Frontend-developer  | [link](https://github.com/ivanobivan/SovcombankSolution) | [link](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/sovlombank-hk-certificate.pdf) |
