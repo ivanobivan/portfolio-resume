@@ -16,6 +16,7 @@
 
 # Дипломы (diplomas)
 - [Habr (Angular no CLI article diplome)](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf)
+- [Т-Ж курс по тайм-менеджменту](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_time.pdf)
 
 # Хакатоны (Hackathons)
 
