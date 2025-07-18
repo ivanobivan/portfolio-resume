@@ -1,5 +1,10 @@
 ![codewars pic](https://www.codewars.com/users/ivanobivan/badges/large)
 
+### [TS challenges](https://github.com/type-challenges/type-challenges?tab=readme-ov-file)
+
+<img src="https://progress-bar.xyz/100/?title=warm-up"/> <img src="https://progress-bar.xyz/38/?title=easy"/> <img src="https://progress-bar.xyz/0/?title=medium"/> <img src="https://progress-bar.xyz/0/?title=hard"/> <img src="https://progress-bar.xyz/0/?title=extreame"/>
+
+
 ### Обо мне (About me)
 Ivan Kolesov - Frontend Developer
 
