@@ -13,15 +13,15 @@ Ivan Kolesov - Frontend Developer
 - [learn.javascript](https://learn.javascript.ru/profile/jesse-ventura)
 
 ### Статьи (Articles)
-- [Angular no CLI: Tutorial](https://habr.com/ru/post/656529/)
+- [Habr Angular without CLI](https://habr.com/ru/post/656529/)
 
 ### Сертификаты (Certificates)
-- [Discrete Math: Base](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/stepik-certificate-91-7422db4.pdf)
-- [Python: Basics and Applications](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/stepik-certificate-512-15cf4ba.pdf)
-- [Sovkombank-hackathon (participant certificate)](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/sovlombank-hk-certificate.pdf)
+- [Stepik курс «Discrete Math: Base»](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/stepik-certificate-91-7422db4.pdf)
+- [Stepik курс «Python: Basics and Applications»](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/stepik-certificate-512-15cf4ba.pdf)
+- [Sovkombank хакатон «Сертификат участника»](https://github.com/ivanobivan/portfolio-resume/blob/234011a668e883facde2da8e5b522c96d28460b5/assets/certificates/sovlombank-hk-certificate.pdf)
 
 ### Дипломы (diplomas)
-- [HABR статья «Angular without CLI»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf)
+- [Habr статья «Angular without CLI»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf)
 - [Т-Ж курс «Тайм-менеджмент»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_time.pdf)
 - [Т-Ж курс «Как правильно питаться»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_edu.pdf)
 
