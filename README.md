@@ -24,16 +24,20 @@ Ivan Kolesov - Frontend Developer
 
 <details>
 <summary>Habr</summary>
+
 * [Статья «Angular without CLI»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/obivan_jedi.pdf)
+
 </details>
 
 <details>
 <summary>T-Bank</summary>
+
 * [Т-Ж курс «Тайм-менеджмент»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_time.pdf)
 * [Т-Ж курс «Как правильно питаться»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_edu.pdf)
 * [Т-Ж курс «Как дружить, если ты взрослый»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_friendship.pdf)
 * [Т-Ж курс «Инвестирование для начинающих»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_invest.pdf) 
 * [Т-Ж курс «Зачем вам ИИС-3 и как с ним работать»](https://github.com/ivanobivan/portfolio-resume/blob/main/assets/diplomas/my_diploma_course_pro_iis-3.pdf) 
+
 </details>
 
 ### Хакатоны (Hackathons)
